@@ -1,0 +1,15 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "practica de poo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poo"
+  ],
+  "author": "coach",
+  "license": "ISC"
+}
